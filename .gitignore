@@ -1,0 +1,28 @@
+# Virtual Environment
+.venv/
+venv/
+*/.venv/
+*/venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files (consider adding specific data paths/extensions if needed)
+# *.csv
+# *.xml
+# data/
+
+# OS specific files
+.DS_Store
+Thumbs.db
